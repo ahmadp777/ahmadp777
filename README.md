@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am Web Development trainee at HackYourFuture, focused on modern, responsive and user-friendly web pages with functional Frontend skills. 
+Alongside this, I am learning Flutter to create Android mobile applications and games. 
+I hold a degree in Chemical Engineering and have background as Control Room Operator and Operation Shift Supervisor.
+Passionate about problem-solving and combine my engineering mindset with my web development skills to build impactful digital products.
+Experience with Programming languages and web technologies including Javascript, HTML/CSS, React and Node.js

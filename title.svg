@@ -1,0 +1,12 @@
+<svg width="500" height="70" viewBox="0 0 600 80" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .title {
+      font-family: Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
+      font-size: 40px;
+      font-weight: 600;
+      fill: #101A9B;
+    }
+  </style>
+
+  <text x="0" y="52" class="title">Ahmad PakMehr</text>
+</svg>

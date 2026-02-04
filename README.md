@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
-<img src="https://raw.githubusercontent.com/ahmadp777/ahmadp777/main/title.svg" alt="Ahmad PakMehr" />I am Web Development trainee at HackYourFuture, focused on modern, responsive and user-friendly web pages with functional Frontend skills.<br> 
+<img src="https://raw.githubusercontent.com/ahmadp777/ahmadp777/main/title.svg" alt="Ahmad PakMehr" /><br>
+I am Web Development trainee at HackYourFuture, focused on modern, responsive and user-friendly web pages with functional Frontend skills.<br> 
 Alongside this, I am learning Flutter to create Android mobile applications and games.<br> 
 I hold a degree in Chemical Engineering and have background as Control Room Operator and Operation Shift Supervisor.<br>
 Passionate about problem-solving and combine my engineering mindset with my web development skills to build impactful digital products.<br>

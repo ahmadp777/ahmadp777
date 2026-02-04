@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 <img src="https://raw.githubusercontent.com/ahmadp777/ahmadp777/main/title.svg" alt="Ahmad PakMehr" />
-
 I am Web Development trainee at HackYourFuture, focused on modern, responsive and user-friendly web pages with functional Frontend skills.<br> 
 Alongside this, I am learning Flutter to create Android mobile applications and games.<br> 
 I hold a degree in Chemical Engineering and have background as Control Room Operator and Operation Shift Supervisor.<br>

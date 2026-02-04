@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> <h2>Ahmad PakMehr</h2>
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=36&duration=3000&pause=1000&color=FF4D8D&center=true&vCenter=true&width=600&lines=Ahmad+PakMehr" />
-
 I am Web Development trainee at HackYourFuture, focused on modern, responsive and user-friendly web pages with functional Frontend skills.<br> 
 Alongside this, I am learning Flutter to create Android mobile applications and games.<br> 
 I hold a degree in Chemical Engineering and have background as Control Room Operator and Operation Shift Supervisor.<br>

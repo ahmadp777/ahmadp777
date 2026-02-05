@@ -20,3 +20,5 @@ Alongside this, I am learning Flutter to create Android mobile applications and 
 I hold a degree in Chemical Engineering and have background as Control Room Operator and Operation Shift Supervisor.<br>
 Passionate about problem-solving and combine my engineering mindset with my web development skills to build impactful digital products.<br>
 Experience with Programming languages and web technologies including Javascript, HTML/CSS, React and Node.js
+<br>
+<a href="https://www.linkedin.com/in/ahmad-pakmehr" target="_blank" title="Linkedin">Linkedin</a>

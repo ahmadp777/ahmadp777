@@ -22,7 +22,7 @@ Passionate about problem-solving and combine my engineering mindset with my web 
 Experience with Programming languages and web technologies including Javascript, HTML/CSS, React and Node.js
 <br><br>
 <p align="center">
-<a href="https://www.linkedin.com/in/ahmad-pakmehr" title="Linkedin">Linkedin</a> 
-  <a href="mailto:ahmad.pakmehr@gmail.com">Email</a> , 
+<a href="https://www.linkedin.com/in/ahmad-pakmehr" title="Linkedin">Linkedin</a> , 
+  <a href="mailto:ahmad.pakmehr@gmail.com">Email</a> 
   <!-- <a href="https://vioapps.com" title="vioapps-website">Website</a> -->
 </p>

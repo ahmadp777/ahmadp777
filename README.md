@@ -21,7 +21,8 @@ I hold a degree in Chemical Engineering and have background as Control Room Oper
 Passionate about problem-solving and combine my engineering mindset with my web development skills to build impactful digital products.<br>
 Experience with Programming languages and web technologies including Javascript, HTML/CSS, React and Node.js
 <br><br>
-<p align="center">
+## Connect with me
+<p align="left">
   <a href="https://www.linkedin.com/in/ahmad-pakmehr">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>&nbsp;

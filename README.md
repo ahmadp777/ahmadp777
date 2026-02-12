@@ -19,7 +19,7 @@ I am Web Development trainee at HackYourFuture, focused on modern, responsive an
 Alongside this, I am learning Flutter to create Android mobile applications and games.<br> 
 I hold a degree in Chemical Engineering and have background as Control Room Operator and Operation Shift Supervisor.<br>
 Passionate about problem-solving and combine my engineering mindset with my web development skills to build impactful digital products.<br>
-Experience with Programming languages and web technologies including Javascript, HTML/CSS, React and Node.js
+Experience with Programming languages and web technologies including Javascript, HTML/CSS and Git/Github, and working knowledge of React and Node.js.
 <br>
 ## Connect with me
 <p align="left">

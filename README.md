@@ -33,6 +33,6 @@ Experience with Programming languages and web technologies including Javascript,
 
 ---
 
-## Projects
+## Projects 
 <p><a href="https://play.google.com/store/apps/details?id=com.textify.imagetotext" title="textify-download-link">Textify</a> : (Android application) Extract text from image</p>
 <p><a href="https://play.google.com/store/apps/details?id=com.calculator.premium" title="Calculator-download-link">Big int Calculator</a> : (Android application) Calculator + Unit Converter</p>

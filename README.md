@@ -35,7 +35,7 @@ Experience with Programming languages and web technologies including Javascript,
 
 ## Projects 
 
-<p><a href="https://viotools.com/" title="VioTools">VioTools</a> : Free online 8 tools website</p>
+<p><a href="https://viotools.com/" title="VioTools">VioTools</a> : Free online eight tools website</p>
 <p><a href="https://hyf-memory-game-triple-js.netlify.app/" title="Memory Game">Memory Game</a> : Collaborative project of HackYourFuture Front-End Development program <a href="https://github.com/ahmadp777/HYF-Memory-game" title="Memory game repository">(Github Repository)</a></p>
 <p><a href="https://vioapps.com/" title="VioApps">VioApps</a> : VioApps applications' website</p>
 <p><a href="https://play.google.com/store/apps/details?id=com.textify.imagetotext" title="textify-download-link">Textify</a> : (Android application) Extract text from image</p>

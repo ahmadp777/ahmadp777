@@ -28,7 +28,8 @@ Experience with Programming languages and web technologies including Javascript,
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://ahmadp777.github.io/resume/">
-  <igmg src="https://img.shields.io/badge/CV-View%20Resume-blue?style=for-the-badge&logo=readme" alt="CV"/>
+  <igmg src="https://img.shields.io/badge/CV-View%20Resume-blue?style=for-the-badge" alt="CV"/>
+  </a>
 </p>
 
 ---

@@ -27,7 +27,7 @@ Experience with Programming languages and web technologies including Javascript,
   <a href="mailto:ahmad.pakmehr@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <igmg src="https://img.shields.io/badge/CV-View%20Resume-blue?style=for-the-badge&logo=readme" totle="CV"/>
+  <igmg src="https://img.shields.io/badge/CV-View%20Resume-blue?style=for-the-badge&logo=readme" alt="CV"/>
 </p>
 
 ---

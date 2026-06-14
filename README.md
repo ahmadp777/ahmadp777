@@ -40,5 +40,5 @@ Experience with Programming languages and web technologies including Javascript,
 <p><a href="https://events-startup-ahmad.onrender.com/" title="Events Startup">Events Startup</a> : HackYourFuture Mid Front-End Development program project  <a href="https://github.com/ahmadp777/events-startup-Ahmad" title="Event Startup repository">(Github Repository)</a></p>
 <p><a href="https://hyf-memory-game-triple-js.netlify.app/" title="Memory Game">Memory Game</a> : Collaborative project of HackYourFuture Front-End Development program <a href="https://github.com/ahmadp777/HYF-Memory-game" title="Memory game repository">(Github Repository)</a></p>
 <p><a href="https://vioapps.com/" title="VioApps">VioApps</a> : VioApps applications' website</p>
-<p><a href="https://play.google.com/store/apps/details?id=com.textify.imagetotext" title="textify-download-link">Textify</a> : (Android application) Extract text from image</p>
-<p><a href="https://play.google.com/store/apps/details?id=com.calculator.premium" title="Calculator-download-link">Big int Calculator</a> : (Android application) Calculator + Unit Converter</p>
+<p><a href="https://play.google.com/store/apps/details?id=com.textify.imagetotext" title="textify-download-link">Textify</a> : Android OCR app for extracting text from images (1,000+ downloads)</p>
+<p><a href="https://play.google.com/store/apps/details?id=com.calculator.premium" title="Calculator-download-link">Calculator</a> : Android app Calculator + Unit Converter</p>

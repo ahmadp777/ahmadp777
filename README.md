@@ -14,7 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
-<img src="https://raw.githubusercontent.com/ahmadp777/ahmadp777/main/title.svg" alt="Ahmad PakMehr" /><br>
+<!-- <img src="https://raw.githubusercontent.com/ahmadp777/ahmadp777/main/title.svg" alt="Ahmad PakMehr" /> -->
+    <img src="/banner.svg" alt="Ahmad PakMehr" width="700" />
+
+<br>
 I am Front-End Development graduate from HackYourFuture, focused on modern, responsive and user-friendly web pages with functional Frontend skills.<br> 
 Alongside this, I am learning Flutter to create Android mobile applications and games.<br> 
 Experience with Programming languages and web technologies including Javascript, HTML/CSS, Git/Github, React and Node.js 
@@ -22,8 +25,7 @@ Experience with Programming languages and web technologies including Javascript,
 ## Connect with me
 <p align="left">
   <a href="https://www.linkedin.com/in/ahmad-pakmehr">
-    <!-- <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> -->
-    <img src="/banner.svg" alt="Ahmad PakMehr" width="700" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a> 
   <a href="mailto:ahmad.pakmehr@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>

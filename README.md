@@ -5,7 +5,7 @@
 --> 
 <!-- <img src="https://raw.githubusercontent.com/ahmadp777/ahmadp777/main/title.svg" alt="Ahmad PakMehr" /> -->
    <div> 
-       <img src="banner.svg" alt="Ahmad PakMehr" width="700" />
+       <img src="banner.svg" alt="Ahmad PakMehr" width="300" />
    </div>        
        <br>
 I am Front-End Development graduate from HackYourFuture, focused on modern, responsive and user-friendly web pages with functional Frontend skills.<br> 

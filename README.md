@@ -4,7 +4,7 @@
 **ahmadp777/Ahmadp777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --> 
 <!-- <img src="https://raw.githubusercontent.com/ahmadp777/ahmadp777/main/title.svg" alt="Ahmad PakMehr" /> -->
-<img src="https://i.ibb.co/23yj8P5R/ahmad.png" alt="ahmad" border="0">
+<img src="https://i.ibb.co/23yj8P5R/ahmad.png" alt="ahmad" border="0" width="300">
 
 <br>
 I am Front-End Development graduate from HackYourFuture, focused on modern, responsive and user-friendly web pages with functional Frontend skills.<br> 

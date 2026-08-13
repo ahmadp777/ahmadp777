@@ -4,7 +4,10 @@
 **ahmadp777/Ahmadp777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --> 
 <!-- <img src="https://raw.githubusercontent.com/ahmadp777/ahmadp777/main/title.svg" alt="Ahmad PakMehr" /> -->
-    <img src="banner.svg" alt="Ahmad PakMehr" width="700" /><br>
+   <div> 
+       <img src="banner.svg" alt="Ahmad PakMehr" width="700" />
+   </div>        
+       <br>
 I am Front-End Development graduate from HackYourFuture, focused on modern, responsive and user-friendly web pages with functional Frontend skills.<br> 
 Alongside this, I am learning Flutter to create Android mobile applications and games.<br> 
 Experience with Programming languages and web technologies including Javascript, HTML/CSS, Git/Github, React and Node.js 
